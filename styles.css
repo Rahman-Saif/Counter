@@ -1,0 +1,55 @@
+.section{
+    /* Rectangle 2 */
+        position: absolute;
+        width:100vw;
+        height: 100vh;
+        left: 81px;
+        top: 53px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.decrement{
+    /* - */
+        /* position: static; */
+        width: 24.57px;
+        height: 12.23px;
+        /* Inside Auto Layou
+}
+
+.increment{
+    /* + */
+        /* position: static; */
+        width: 40.5px;
+        height: 41.38px;
+        /* Inside Auto Layout */
+        
+}
+
+.result{
+    color: rgb(220, 220, 220);
+        font-family: Inter;
+        font-size: 72px;
+        font-weight: 500;
+        line-height: 87px;
+        letter-spacing: 0%;
+        text-align: center;
+        /* 1 */
+            position: static;
+            /* width: 48px; */
+            height: 87px;
+            /* Auto layout */
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+            align-items: flex-start;
+            padding: 0px;
+        
+        
+            /* Inside Auto Layout */
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+            margin: 0px 0px;
+}
